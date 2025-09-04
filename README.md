@@ -31,6 +31,7 @@ The system leverages **CNNs** and **Transformers** to achieve **state-of-the-art
 ---
 
 ## 📂 Project Structure
+```bash
 hand-gesture-rehab/
 │── data/                     # Collected dataset
 │── models/                   # Trained model weights
@@ -43,6 +44,7 @@ hand-gesture-rehab/
 │── demo/                     # Streamlit demo app
 │── requirements.txt          # Project dependencies
 │── README.md                # Project documentation
+```
 ## 🧠 Dataset
 
 - **Participants:** 11 contributors  
@@ -135,4 +137,5 @@ You are free to **use, modify, and distribute** this project for **research and 
 
 Special thanks to **Ho Chi Minh City Open University** and the  
 **Department of Special Training** for their continuous support and guidance throughout this project.
+
 
