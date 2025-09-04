@@ -31,8 +31,6 @@ The system leverages **CNNs** and **Transformers** to achieve **state-of-the-art
 ---
 
 ## 📂 Project Structure
-
-```bash
 hand-gesture-rehab/
 │── data/                     # Collected dataset
 │── models/                   # Trained model weights
@@ -85,7 +83,6 @@ hand-gesture-rehab/
 
 Run the **real-time gesture recognition demo** using **Streamlit**:
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/hand-gesture-rehab.git
 cd hand-gesture-rehab
@@ -138,3 +135,4 @@ You are free to **use, modify, and distribute** this project for **research and 
 
 Special thanks to **Ho Chi Minh City Open University** and the  
 **Department of Special Training** for their continuous support and guidance throughout this project.
+
